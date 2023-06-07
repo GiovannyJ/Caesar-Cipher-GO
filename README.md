@@ -7,4 +7,4 @@ The Caesar Cipher is a simple form of encryption that shifts letters by a key va
 # How To Run
 1. git clone github.com/GiovannyJ/Caesar-Cipher-GO
 2. cd caesar-cipher-go
-3. go run main.go enc|dec -t <TEXT> -s <NUM>
+3. go run main.go enc|dec -t TEXT -s NUM
